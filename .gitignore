@@ -14,3 +14,5 @@ hs_err_pid*
 .idea
 ssh-utils/ssh-utils.iml
 Useful-Java-utils.iml
+out
+target
